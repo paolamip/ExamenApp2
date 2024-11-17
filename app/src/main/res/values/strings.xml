@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad2</string>
+    <string name="practica_1_saludo">Bienvenido a la Práctica 1</string>
+    <string name="txtNombre">Ingrese su nombre</string>
+    <string name="btnPulsar">Ingresar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnCerrar">Cerrar</string>
+</resources>
